@@ -14,8 +14,8 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 - [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
 
 ```
-cd existing_repo
-git remote add origin https://gitlab.weborigo.eu/applicant-412370/dev-zsoltalapi.git
+cd weborigo
+git remote add origin https://github.com/zsalapi:weborigo.git
 git branch -M master
 git push -uf origin master
 ```
